@@ -12,7 +12,7 @@ function App() {
       </div>
       <div className="card">
         <div className="section">
-          <div className="HeaderHero"><i class="fa-kit fa-regular-beer-mug-circle-xmark"></i></div>
+          <div className="HeaderHero"><i className="fa-kit fa-regular-beer-mug-circle-xmark"></i></div>
           <h1>Sober October Challenge</h1>
             <h2>Make a track in 31 days</h2>
 
@@ -36,9 +36,9 @@ function App() {
             <h2>FREE TOOLS</h2>
             <p>Useful tools that you'll see being used in this course.</p>
             <div className="actionBar downloads">
-              <button><i class="fa-duotone fa-download fa-beat-fade"></i> STING.ZIP (<i class="fa-duotone fa-music"></i> 0mb)</button>
-              <button><i class="fa-duotone fa-download fa-beat-fade"></i> Podolski VST (<i class="fa-brands fa-windows"></i> 34.2mb)</button>
-              <button><i class="fa-duotone fa-download fa-beat-fade"></i> Podolski VST (<i class="fa-brands fa-apple"></i> 56.6mb)</button>
+              <button><i className="fa-duotone fa-download fa-beat-fade"></i> STING.ZIP (<i className="fa-duotone fa-music"></i> 0mb)</button>
+              <button><i className="fa-duotone fa-download fa-beat-fade"></i> Podolski VST (<i className="fa-brands fa-windows"></i> 34.2mb)</button>
+              <button><i className="fa-duotone fa-download fa-beat-fade"></i> Podolski VST (<i className="fa-brands fa-apple"></i> 56.6mb)</button>
             </div>
           </div>
 
@@ -47,7 +47,7 @@ function App() {
             <h2>FREE SOUNDS</h2>
             <p>Sample Packs to get you started.</p>
             <div className="actionBar downloads">
-              <button><i class="fa-duotone fa-download fa-beat-fade"></i> HOUSE ESSENTIALS (<i class="fa-duotone fa-cube"></i> 0mb)</button>
+              <button><i className="fa-duotone fa-download fa-beat-fade"></i> HOUSE ESSENTIALS (<i className="fa-duotone fa-cube"></i> 0mb)</button>
             </div>
           </div>
 
@@ -56,9 +56,9 @@ function App() {
             <h2>Stream latest episode</h2>
             <p></p>
             <div className="actionBar podcasts">
-              <button><i class="fa-duotone fa-podcast"></i> Apple Podcasts</button>
-              <button><i class="fa-brands fa-spotify"></i> Spotify</button>
-              <button><i class="fa-brands fa-google"></i> Google Podcasts</button>
+              <button><i className="fa-duotone fa-podcast"></i> Apple Podcasts</button>
+              <button><i className="fa-brands fa-spotify"></i> Spotify</button>
+              <button><i className="fa-brands fa-google"></i> Google Podcasts</button>
             </div>
 
 
