@@ -66,7 +66,7 @@ function App() {
           <div className="section">
           <div className="schedule">
             <h1>Course Schedule</h1>
-            <table cellpadding="0" cellspacing="0" width="100%">
+            <table>
               <tr><td className="schedule-date">Week 1</td><td className="schedule-task"><ul><li>Introduction and Basic Setup</li></ul></td></tr>
               <tr><td className="schedule-date">Day 1</td><td className="schedule-task"><ul><li>Introduction to Ableton Live 11 Suite</li><li>Overview of DAW (Digital Audio Workstation)</li></ul></td></tr>
               <tr><td className="schedule-date">Day 2</td><td className="schedule-task"><ul><li>Installation and Setup</li><li>Software installation and audio setup</li></ul></td></tr>
